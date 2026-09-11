@@ -1,0 +1,8 @@
+2026-09-10 19:57:48 [main] INFO  performance - Objeto 'LineaEvolutiva' | tamaño superficial: 24 bytes | con referencias: 312 bytes
+2026-09-10 19:57:48 [main] INFO  performance - Objeto 'Pokemon' | tamaño superficial: 40 bytes | con referencias: 288 bytes
+2026-09-10 19:57:48 [main] INFO  performance - RAM disponible | antes: 13294.76 MB | después: 13280.72 MB | diferencia: -14.04 MB
+2026-09-10 19:57:48 [main] INFO  performance - Heap JVM usado | antes: 10.50 MB | después: 13.69 MB | diferencia: 3.19 MB
+2026-09-10 19:57:48 [main] INFO  performance - Objeto 'LineaEvolutiva' | tamaño superficial: 24 bytes | con referencias: 312 bytes
+2026-09-10 19:57:48 [main] INFO  performance - Objeto 'Pokemon' | tamaño superficial: 40 bytes | con referencias: 288 bytes
+2026-09-10 19:57:54 [main] INFO  performance - RAM disponible | antes: 13280.72 MB | después: 13193.70 MB | diferencia: -87.03 MB
+2026-09-10 19:57:54 [main] INFO  performance - Heap JVM usado | antes: 14.81 MB | después: 12.80 MB | diferencia: -2.01 MB
